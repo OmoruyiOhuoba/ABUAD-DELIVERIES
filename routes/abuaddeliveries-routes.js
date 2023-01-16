@@ -1135,7 +1135,7 @@ router.route("/realforgotpasswordemail").post((req, res, next) => {
       };
 
       const token = jwt.sign(payload, keys.secretOrKey, { expiresIn: 7200 });
-      const link = `https://www.cityrunnerltd.com/reset-password/${user.id}/${token}`;
+      const link = `https://abuad-deliveries-production.up.railway.app/reset-password/${user.id}/${token}`;
 
       console.log("link formed");
       console.log(token);
