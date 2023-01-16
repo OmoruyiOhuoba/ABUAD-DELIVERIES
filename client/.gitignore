@@ -1,0 +1,29 @@
+# api keys
+.env     
+
+# dependencies
+node_modules
+
+
+#STEPS
+#1. perfrom npm i dotenv
+
+#2. in back end place "require("dotenv").config();" in the index.js or server.js file
+
+#3. in client folder create a ".gitignore" file and ".env" file in the root
+
+#4. in server folder create a ".gitignore" file and ".env" file in the root
+
+#5. In the client .env file for front end place all your keys in this format: REACT_APP_API_KEY_KEYNAME=theApiKey
+
+#6. In the server .env file in back end place all keys for database connection, api keys and and email credentials
+#  in the format. Just: MONGODB_CONNECTION_STRING, or API_KEY, or USER, or PASS="string"...
+
+#  NOTE: ALL KEY VALUES IN .ENV FILES ARE IN CAPITAL LETTERS AND HAVE UNDERSCORE
+
+#7. In the .gitignore file for front end and back end add .env and node_modules folders (no slash) 
+#and you can section them too with # api keys and # dependencies
+
+
+
+node_modules
