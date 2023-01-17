@@ -1,3 +1,11 @@
+1. Project Website: https://abuad-deliveries-production.up.railway.app/
+
+2. Project Presentation: https://docs.google.com/presentation/d/1-XFFm8PulbSyrFs1TXWICc3LDOUviD9xFTrMZx1eSDA/edit
+
+3. Project Report: https://docs.google.com/document/d/1ki7AwRdbby-MSftNRDOU64WKUSeYtmhVcLsBIpXcTVw/edit#
+
+4. Project Documentation: Typed Below -
+
 # ABUAD-DELIVERIES Online Delivery and Logistics Web Application
 
 In this project, you can simply perform the operations to manage the couriers and the parcels. You can log in as the system admin and also can add and delete the Courier. you can also Update Status for courier delivered or not.
@@ -45,6 +53,9 @@ This delivery system project will provide information recipient with following d
 
 ## BRIEF OVERVIEW OF THE TECHNOLOGY
 
+### Design:
+1. Figma
+
 ### Front-end: 
 1. JavaScript
 2. React
@@ -57,6 +68,10 @@ This delivery system project will provide information recipient with following d
 3. Custom APIs
 4. Paystack Payment API
 5. Nodemailer Mail SMTP
+
+### Testing:
+1. Jest
+2. Enzyme
 
 ### DEV OPS
 1. Heroku PAAS Platform
