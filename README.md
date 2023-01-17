@@ -71,6 +71,7 @@ This delivery system project will provide information recipient with following d
 3. Custom APIs
 4. Paystack Payment API
 5. Nodemailer Mail SMTP
+6. Google Distance Matrix API
 
 ### Testing:
 1. Jest for unit and integration testing
