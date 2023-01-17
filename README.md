@@ -59,9 +59,31 @@ This delivery system project will provide information recipient with following d
 5. Nodemailer Mail SMTP
 
 ### DEV OPS
-1. PAAS - Heroku
-2. Cloud Server - AWS
+1. Heroku PAAS Platform
+2. AWS Cloud Server 
 
-## System Requirement (any one):
-npm version 8.19.3 and above
+## System Requirements:
+1. Git version 2.39.0 and above
+2. npm version 8.19.3 and above
+3. MongoDB version 5.0.5 and above
+
+
+
+## Gettiing Started
+1. In the terminal run
+
+```$ git clone https://github.com/OmoruyiOhuoba/ABUAD-DELIVERIES/```
+
+2. In the root directory of the file run:
+
+```$ npm i```
+
+3. Run:
+
+```$ node index.js```
+
+4. Move to the client directory and run
+
+```$ npm react start```
+
 
