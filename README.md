@@ -73,6 +73,9 @@ This delivery system project will provide information recipient with following d
 5. Nodemailer Mail SMTP
 6. Google Distance Matrix API
 
+### Database
+1. MongoDB Atlas
+
 ### Testing:
 1. Jest for unit and integration testing
 2. Enzyme for unit and integration testing
@@ -81,7 +84,7 @@ This delivery system project will provide information recipient with following d
 1. Heroku PAAS Platform
 2. AWS Cloud Server 
 
-## System Requirements:
+## Software Requirements:
 1. Git version 2.39.0 and above
 2. npm version 8.19.3 and above
 3. MongoDB version 5.0.5 and above
