@@ -21,6 +21,9 @@ It will provide status of the product after placing orders.
 
 This delivery system project will provide information recipient with following detail – where the current consignment is, till when it will reach its final destination, date of placing consignment, final date to reach its destination etc
 
+## Software Development Life Cycle Used
+1. Agile Methdology
+
 ## Actors /Users of the System
 1. Admin
 2. Customers
@@ -70,8 +73,8 @@ This delivery system project will provide information recipient with following d
 5. Nodemailer Mail SMTP
 
 ### Testing:
-1. Jest
-2. Enzyme
+1. Jest for unit and integration testing
+2. Enzyme for unit and integration testing
 
 ### DEV OPS
 1. Heroku PAAS Platform
